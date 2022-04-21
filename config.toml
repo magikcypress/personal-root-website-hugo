@@ -1,4 +1,3 @@
-baseURL = 'http://ipfs.rouquin.me/'
 languageCode = 'en-us'
 title = 'Personal Root Website'
 theme = 'contrast-hugo'
